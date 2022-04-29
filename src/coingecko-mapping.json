@@ -1,0 +1,186 @@
+[
+  {
+    "symbol": "HAKKAUSDT",
+    "symbolId": "hakka-finance"
+  },
+  {
+    "symbol": "JULDUSDT",
+    "symbolId": "julswap"
+  },
+  {
+    "symbol": "KLVUSDT",
+    "symbolId": "klever"
+  },
+  {
+    "symbol": "GRINUSDT",
+    "symbolId": "grin"
+  },
+  {
+    "symbol": "PONDUSDT",
+    "symbolId": "marlin"
+  },
+  {
+    "symbol": "PLTUSDT",
+    "symbolId": "add-xyz-new"
+  },
+  {
+    "symbol": "LIENUSDT",
+    "symbolId": "lien"
+  },
+  {
+    "symbol": "DHTUSDT",
+    "symbolId": "dhedge-dao"
+  },
+  {
+    "symbol": "BONDLYUSDT",
+    "symbolId": "bondly"
+  },
+  {
+    "symbol": "PAINTUSDT",
+    "symbolId": "paint"
+  },
+  {
+    "symbol": "INVUSDT",
+    "symbolId": "inverse-finance"
+  },
+  {
+    "symbol": "MUSEUSDT",
+    "symbolId": "muse-2"
+  },
+  {
+    "symbol": "NTFXUSDT",
+    "symbolId": "nftx"
+  },
+  {
+    "symbol": "OXYUSDT",
+    "symbolId": "oxygen"
+  },
+  {
+    "symbol": "ALPAUSDT",
+    "symbolId": "alpaca"
+  },
+  {
+    "symbol": "TOOLSUSDT",
+    "symbolId": "tools"
+  },
+  {
+    "symbol": "KINEUSDT",
+    "symbolId": "kine-protocol"
+  },
+  {
+    "symbol": "SFIUSDT",
+    "symbolId": "saffron-finance"
+  },
+  {
+    "symbol": "DITTOUSDT",
+    "symbolId": "ditto"
+  },
+  {
+    "symbol": "FRIESUSDT",
+    "symbolId": "fryworld"
+  },
+  {
+    "symbol": "KONOUSDT",
+    "symbolId": "konomi-network"
+  },
+  {
+    "symbol": "SWGBUSDT",
+    "symbolId": "swirge"
+  },
+  {
+    "symbol": "LICUSDT",
+    "symbolId": "lightening-cash"
+  },
+  {
+    "symbol": "RLYUSDT",
+    "symbolId": "rally-2"
+  },
+  {
+    "symbol": "DEGOUSDT",
+    "symbolId": "dego-finance"
+  },
+  {
+    "symbol": "LINAUSDT",
+    "symbolId": "linear-bsc"
+  },
+  {
+    "symbol": "BNBUSDT",
+    "symbolId": "binancecoin"
+  },
+  {
+    "symbol": "CTKUSDT",
+    "symbolId": "certik"
+  },
+  {
+    "symbol": "PERLUSDT",
+    "symbolId": "perlin"
+  },
+  {
+    "symbol": "EASYUSDT",
+    "symbolId": "easyfi"
+  },
+  {
+    "symbol": "CAKEUSDT",
+    "symbolId": "pancakeswap-token"
+  },
+  {
+    "symbol": "BDOUSDT",
+    "symbolId": "bdollar"
+  },
+  {
+    "symbol": "PNTUSDT",
+    "symbolId": "pnetwork"
+  },
+  {
+    "symbol": "PBTCUSDT",
+    "symbolId": "ptokens-btc"
+  },
+  {
+    "symbol": "BUNNYUSDT",
+    "symbolId": "pancake-bunny"
+  },
+  {
+    "symbol": "MERLUSDT",
+    "symbolId": "merlin"
+  },
+  {
+    "symbol": "DOTUSDT",
+    "symbolId": "polkadot"
+  },
+  {
+    "symbol": "LINKUSDT",
+    "symbolId": "chainlink"
+  },
+  {
+    "symbol": "DERCUSDT",
+    "symbolId": "derace"
+  },
+  {
+    "symbol": "CLVUSDT",
+    "symbolId": "clover-finance"
+  },
+  {
+    "symbol": "MARSUSDT",
+    "symbolId": "mars-ecosystem-token"
+  },
+  {
+    "symbol": "JUNOUSDT",
+    "symbolId": "juno-network"
+  },
+  {
+    "symbol": "OSMOUSDT",
+    "symbolId": "osmosis"
+  },
+  {
+    "symbol": "HUAHUAUSDT",
+    "symbolId": "chihuahua-token"
+  },
+  {
+    "symbol": "KUMAUSDT",
+    "symbolId": "kuma-inu"
+  },
+  {
+    "symbol": "GMUSDT",
+    "symbolId": "ghostmarket"
+  }
+]
